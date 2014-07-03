@@ -14,7 +14,7 @@ a Function4 returns a Function6.
 
 ##Function currying##
 
-You can partially apply a function of N by supplying it with some value and receiving a function of N - 1. Each function
+You can partially apply a function of N by supplying it with some value and receive a function of N - 1. Each function
 of N provides a curry function to do so. For example
 
     Function2<Integer, Integer, Integer> add = (x, y) -> x + y;
