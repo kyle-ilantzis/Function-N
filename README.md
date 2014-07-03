@@ -4,7 +4,7 @@ A java 8 functional extension.
 
 This "extension" provides extra function objects that the java.util.function package does not offer. You can find
 java.util.function.Function and java.util.function.BiFunction but there is nothing for functions that accept 3 arguments
-or more. With the Function-N extension you can have functions that accept 1 argument to functions that accept 8
+or more. With the Function-N extension you can have functions that accept 1 argument to functions that accept 8.
 
 ##Function composition##
 
@@ -25,4 +25,3 @@ of N provides a curry function to do so. For example
 
 Function-N supports up to 8 functions but you can easily extends the function generator to produce 16, 32, 64, ...
 function objects!
-
