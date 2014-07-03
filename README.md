@@ -25,3 +25,15 @@ of N provides a curry function to do so. For example
 
 Function-N supports up to 8 functions but you can easily extends the function generator to produce 16, 32, 64, ...
 function objects!
+
+##Installation##
+
+You can simply download this repository as a zip or git clone it. Take the src/kyleilantzis folder and copy it into your project. That's it!
+
+##Feedback##
+
+Questions? Comments? Feedback? Leave an issue and I'll get back to you.
+
+##License##
+
+MIT
